@@ -1,0 +1,11 @@
+customer_id,customer_name,city,segment
+1,Customer 1,Los Angeles,Consumer
+2,Customer 2,Houston,Home Office
+3,Customer 3,Los Angeles,Consumer
+4,Customer 4,Los Angeles,Consumer
+5,Customer 5,Houston,Corporate
+6,Customer 6,Houston,Home Office
+7,Customer 7,Los Angeles,Home Office
+8,Customer 8,New York,Corporate
+9,Customer 9,Los Angeles,Consumer
+10,Customer 10,Los Angeles,Corporate
